@@ -1,0 +1,8 @@
+{
+    "name": "lohan.unity-utils",
+    "references": [
+        "lohan.unity-utils.Agents",
+        "lohan.unity-utils.Animations",
+        "lohan.unity-utils.Logger"
+    ]
+}

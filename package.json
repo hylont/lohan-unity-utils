@@ -1,0 +1,12 @@
+{
+    "name": "com.lohan.unity-utils",
+    "version": "1.0.0",
+    "displayName": "Lohan's Unity utils",
+    "description": "Because I am a lazy programer, this package includes every single piece of code and assets that can be usefull for numerous projects",
+    "unity":"2021.0",
+    "author": {
+        "name": "Lohan Calot",
+        "email": "lohan.calot@gmail.com",
+        "url": "https://www.agartha-dev.com"
+    }
+}
